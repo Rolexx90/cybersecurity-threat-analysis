@@ -132,8 +132,6 @@ This project documents a comprehensive network security analysis conducted durin
 - Mitigation recommendations
 - Industry references (Verizon DBIR, OWASP, Cisco Talos, etc.)
 
-📥 **[Download Full Report (PDF)]([./https://github.com/Rolexx90/cybersecurity-threat-analysis/blob/main/Cyber_Threat_Analysis_Report.pdf])**
-
 ---
 
 ## 🎓 Learning Outcomes
