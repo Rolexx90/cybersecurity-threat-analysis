@@ -149,7 +149,7 @@ This project strengthened my understanding of:
 
 ## 🔗 Related Projects
 
-- [ISO 27001 Incident Response Playbook](https://github.com/YOUR-USERNAME/iso27001-incident-playbooks) - Phishing attack response procedures
+- [ISO 27001 Incident Response Playbook](https://github.com/Rolexx90/cybersecurity-incident-playbooks) - Phishing attack response procedures
 
 ---
 
